@@ -4,5 +4,7 @@ Neural network with one hidden layer, which is trained with the mnist dataset fo
 
 All the other meta params can be varied. The current params seem to work best, performing with a missclassification rate of 6-10%.
 
+The nn is also implemented with tensorflow.
+
 
  ![Performance of the neural network](neural_network.png)
